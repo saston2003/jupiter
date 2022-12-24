@@ -1,0 +1,26 @@
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\appsettings.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.staticwebassets.runtime.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.exe
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.deps.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.runtimeconfig.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.dll
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\ref\asp.net core web app jupiter.dll
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\bin\Debug\net6.0\asp.net core web app jupiter.pdb
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.csproj.AssemblyReference.cache
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.AssemblyInfoInputs.cache
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.AssemblyInfo.cs
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.csproj.CoreCompileInputs.cache
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.RazorAssemblyInfo.cache
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.RazorAssemblyInfo.cs
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\scopedcss\bundle\asp.net core web app jupiter.styles.css
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\scopedcss\projectbundle\asp.net core web app jupiter.bundle.scp.css
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.dll
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\ref\asp.net core web app jupiter.dll
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.pdb
+C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\obj\Debug\net6.0\asp.net core web app jupiter.genruntimeconfig.cache
