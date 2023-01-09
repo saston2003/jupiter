@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ibrowse\\.nuget\\packages\\": {}
+    "C:\\Users\\manage\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ibrowse\\source\\repos\\myrepo1\\asp.net core web app jupiter\\asp.net core web app jupiter.csproj",
+      "projectUniqueName": "C:\\repo\\asp.net core web app jupiter\\asp.net core web app jupiter.csproj",
       "projectName": "asp.net core web app jupiter",
-      "projectPath": "C:\\Users\\ibrowse\\source\\repos\\myrepo1\\asp.net core web app jupiter\\asp.net core web app jupiter.csproj",
-      "packagesPath": "C:\\Users\\ibrowse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ibrowse\\source\\repos\\myrepo1\\asp.net core web app jupiter\\obj\\",
+      "projectPath": "C:\\repo\\asp.net core web app jupiter\\asp.net core web app jupiter.csproj",
+      "packagesPath": "C:\\Users\\manage\\.nuget\\packages\\",
+      "outputPath": "C:\\repo\\asp.net core web app jupiter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ibrowse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manage\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.112\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

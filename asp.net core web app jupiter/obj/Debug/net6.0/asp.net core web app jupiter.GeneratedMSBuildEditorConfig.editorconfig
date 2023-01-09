@@ -5,40 +5,41 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = asp.net_core_web_app_jupiter
 build_property.RootNamespace = asp.net_core_web_app_jupiter
-build_property.ProjectDir = C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter\
+build_property.ProjectDir = C:\repo\asp.net core web app jupiter\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ibrowse\source\repos\myrepo1\asp.net core web app jupiter
+build_property.MSBuildProjectDirectory = C:\repo\asp.net core web app jupiter
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/Error.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/Index.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/Privacy.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/_ViewImports.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/_ViewStart.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ibrowse/source/repos/myrepo1/asp.net core web app jupiter/Pages/Shared/_Layout.cshtml]
+[C:/repo/asp.net core web app jupiter/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hhgqoc0aug
